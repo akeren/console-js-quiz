@@ -13,15 +13,15 @@ The core idea behind this development is to help code newbies to understand the 
 - JS Module Pattern
 - ES5, ES6, ES7, ES8 to ESNext
 
+## Dev Guidelines
+
+- I put together a development guidelines located in [Dev-guidelines](https://github.com/akeren/console-js-quiz/tree/master/Dev-guidelines) directory.
+
 ## Demo
 
 <img src="./img/Question.png">
 <img src="./img/Input_ans.png">
 <img src="./img/feedback.png">
-
-## Dev Guidelines
-
-- I put together a development guidelines located in >Dev-guidelines directory
 
 ## Contributions
 
