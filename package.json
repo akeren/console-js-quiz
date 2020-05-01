@@ -1,0 +1,16 @@
+{
+	"name": "quiz",
+	"version": "1.0.0",
+	"description": "Console JS Quiz-Application",
+	"main": "src/index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Quiz",
+		"Console",
+		"Game"
+	],
+	"author": "Kater, Akeren",
+	"license": "ISC"
+}
